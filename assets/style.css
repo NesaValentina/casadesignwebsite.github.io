@@ -1,0 +1,72 @@
+.marketplace-list {
+    width: relative;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+
+}
+
+.kolom {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+p {
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+}
+
+
+
+.tengah {
+    text-align: center;
+    width: 100%;
+}
+
+.kartu-marketplace {
+    width: 40%;
+    margin: 0 auto;
+    border: 6px solid lightgrey;
+    margin-bottom: 20px;
+    display: flow-root;
+
+}
+
+.kartu-marketplace img {
+    width: 20%;
+    border-radius: 50%;
+    float: left;
+    margin: 8px 8px 8px 8px;
+
+}
+
+.kartu-marketplace p {
+   margin: 0;
+   line-height: 15px;
+}
+
+
+
+.c1 {
+    padding: 20px;
+    
+}
+
+.c2 {
+    display: inline;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.kolom1 {
+    padding: 50px;
+}
+
+.tulis1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: bold;
+    line-height: 2px;
+    background-color: lightskyblue;
+}
+
+
